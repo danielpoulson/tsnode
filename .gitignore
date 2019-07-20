@@ -1,2 +1,4 @@
 dist
 node_modules
+util\config.js
+.env
