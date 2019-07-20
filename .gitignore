@@ -1,4 +1,5 @@
 dist
 node_modules
 util\config.js
-.env
+# API keys and secrets
+*.env
